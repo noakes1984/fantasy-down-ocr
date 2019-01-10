@@ -3,9 +3,18 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@syncfusion/ej2-react-buttons": "^16.3.33",
+    "axios": "^0.18.0",
+    "firebase": "^5.5.8",
     "react": "^16.6.3",
+    "react-accessible-accordion": "^2.4.5",
+    "react-cloud-vision-api": "^0.3.0",
     "react-dom": "^16.6.3",
-    "react-scripts": "2.1.1"
+    "react-dropzone": "^7.0.1",
+    "react-firebase-file-uploader": "^2.4.2",
+    "react-radio-buttons": "^1.2.2",
+    "react-scripts": "2.1.1",
+    "tesseract.js": "^1.0.14"
   },
   "scripts": {
     "start": "react-scripts start",
